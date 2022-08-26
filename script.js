@@ -17,3 +17,4 @@ function guest(sc){
     score2+=sc;
     value1.innerHTML= score2;
 }
+//* here the function takes the value that is given as parametre
